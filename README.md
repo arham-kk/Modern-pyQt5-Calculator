@@ -4,7 +4,8 @@
 
 This is a simple calculator application built using PyQt5 and Python. The app provides basic mathematical operations such as addition, subtraction, multiplication, and division.
 
-https://github.com/arham-kk/Modern-pyQt5-Calculator/blob/main/cal.mp4
+https://user-images.githubusercontent.com/108623726/221303486-482730ea-3552-458b-9f86-28fe37ff9a6c.mp4
+
 
 ## Features
 

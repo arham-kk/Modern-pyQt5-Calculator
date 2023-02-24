@@ -25,4 +25,4 @@ This application was built by Me. Feel free to contribute by submitting pull req
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
